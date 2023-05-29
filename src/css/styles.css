@@ -23,3 +23,17 @@
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
 }
+
+.container {
+  margin-left: auto;
+  margin-right: auto;
+  min-width: 280px;
+  width: 100%;
+}
+
+.add-to-cart{
+  align-self: flex-end;
+  width: 160px;
+  height: 40px;
+  border-radius: 10px;
+}

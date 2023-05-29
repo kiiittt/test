@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="./img/logo.png" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Delivery app</title>
+    <link rel="stylesheet" href="./css/styles.css" />
+    <link rel="stylesheet" href="./css/shoping-card.css" />
+  </head>
+  <body>
+    <load ="partials/header.html" />
+    <section>
+      <div class="container card">
+        <div class="user-info">
+          <ul class="ul-info">
+            <li class="li-info">
+              <label for="name" class="label-info">Name:<input type="text" id="name" class="input-info"/></label>
+            </li>
+            <li class="li-info">
+              <label for="mail" class="label-info">Email:<input type="email" id="mail" class="input-info"/></label>
+            </li>
+            <li class="li-info">
+              <label for="tel" class="label-info">Phone:<input type="tel" id="tel" class="input-info"/></label>
+            </li>
+            <li class="li-info">
+              <label for="address" class="label-info">Address:<input type="text" id="address" class="input-info"/></label>
+            </li>
+          </ul>
+        </div>
+        <div class="products-list"></div>
+      </div>
+      <div class="total-price">
+        <h1 class="price-item">Total price:</h1>
+        <button type="submit" class="btn-submit">Submit</button>
+      </div>
+    </section>
+    <script type="module" src="./js/shoping-card.js"></script>
+  </body>
+</html>
