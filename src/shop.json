@@ -11,11 +11,11 @@
       },
       {
         "name": "Cheeseburger",
-        "image": "/products/cheeseburger.jpg"
+        "image": "./products/cheeseburger.jpg"
       },
       {
         "name": "PotatoFry",
-        "image": "./img/products/potato.jpg"
+        "image": "../products/potato.jpg"
       },
       {
         "name": "Nuggets",
