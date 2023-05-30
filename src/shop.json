@@ -7,11 +7,11 @@
     "products": [
       {
         "name": "Gamburger",
-        "image": "./img/products/gamburger.jpg"
+        "image": "../img/products/gamburger.jpg"
       },
       {
         "name": "Cheeseburger",
-        "image": "./img/products/cheeseburger.jpg"
+        "image": "/products/cheeseburger.jpg"
       },
       {
         "name": "PotatoFry",
