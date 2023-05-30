@@ -1,4 +1,4 @@
-fetch('../shop.json')
+fetch('./shop.json')
   .then(response => response.json())
   .then(data => {
     const shopsContainer = document.querySelector('.shops');
