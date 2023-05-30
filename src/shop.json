@@ -7,39 +7,48 @@
     "products": [
       {
         "name": "Gamburger",
-        "image": "../img/products/gamburger.jpg"
+        "image": "./img/products/gamburger.jpg",
+        "price": 100
       },
       {
         "name": "Cheeseburger",
-        "image": "./products/cheeseburger.jpg"
+        "image": "./img/products/cheeseburger.jpg",
+        "price": 100
       },
       {
         "name": "PotatoFry",
-        "image": "../products/potato.jpg"
+        "image": "./img/products/potato.jpg",
+        "price": 100
       },
       {
         "name": "Nuggets",
-        "image": "./img/products/nuggets.jpg"
+        "image": "./img/products/nuggets.jpg",
+        "price": 100
       },
       {
         "name": "Big gamburger",
-        "image": "./img/products/gamburger.jpg"
+        "image": "./img/products/gamburger.jpg",
+        "price": 100
       },
       {
         "name": "Double gamburger",
-        "image": "./img/products/gamburger.jpg"
+        "image": "./img/products/gamburger.jpg",
+        "price": 100
       },
       {
         "name": "HappyMeal",
-        "image": "./img/products/happymeal.jpg"
+        "image": "./img/products/happymeal.jpg",
+        "price": 100
       },
       {
         "name": "Cherry Pie",
-        "image": "./img/products/pie.jpg"
+        "image": "./img/products/pie.jpg",
+        "price": 100
       },
       {
         "name": "Donut",
-        "image": "./img/products/donuts.jpg"
+        "image": "./img/products/donuts.jpg",
+        "price": 100
       }
     ]
   },
@@ -51,23 +60,28 @@
     "products": [
       {
         "name": "Gamburger",
-        "image": "./img/products/gamburger.jpg"
+        "image": "./img/products/gamburger.jpg",
+        "price": 100
       },
       {
         "name": "Cheeseburger",
-        "image": "./img/products/cheeseburger.jpg"
+        "image": "./img/products/cheeseburger.jpg",
+        "price": 100
       },
       {
         "name": "PotatoFry",
-        "image": "./img/products/potato.jpg"
+        "image": "./img/products/potato.jpg",
+        "price": 100
       },
       {
         "name": "Big gamburger",
-        "image": "./img/products/gamburger.jpg"
+        "image": "./img/products/gamburger.jpg",
+        "price": 100
       },
       {
         "name": "Double gamburger",
-        "image": "./img/products/gamburger.jpg"
+        "image": "./img/products/gamburger.jpg",
+        "price": 100
       }
     ]
   },
@@ -79,27 +93,33 @@
     "products": [
       {
         "name": "Chicken sandwich",
-        "image": "./img/products/sendwich.jpg"
+        "image": "./img/products/sendwich.jpg",
+        "price": 100
       },
       {
         "name": "Sausage sandwich",
-        "image": "./img/products/sendwich2.jpeg"
+        "image": "./img/products/sendwich2.jpeg",
+        "price": 100
       },
       {
         "name": "Ham sandwich",
-        "image": "./img/products/sendw5.jpg"
+        "image": "./img/products/sendw5.jpg",
+        "price": 100
       },
       {
         "name": "Vegan sandwich",
-        "image": "./img/products/sendw4.jpg"
+        "image": "./img/products/sendw4.jpg",
+        "price": 100
       },
       {
         "name": "Sandwich with beef",
-        "image": "./img/products/sendw3.jpg"
+        "image": "./img/products/sendw3.jpg",
+        "price": 100
       },
       {
         "name": "Just a sandwich",
-        "image": "./img/products/sendw6.jpg"
+        "image": "./img/products/sendw6.jpg",
+        "price": 100
       }
     ]
   },
@@ -111,15 +131,18 @@
     "products": [
       {
         "name": "Caesar",
-        "image": "./img/products/caesar.jpg"
+        "image": "./img/products/caesar.jpg",
+        "price": 100
       },
       {
         "name": "Green",
-        "image": "./img/products/green.jpg"
+        "image": "./img/products/green.jpg",
+        "price": 100
       },
       {
         "name": "Sea salad",
-        "image": "./img/products/sea.jpeg"
+        "image": "./img/products/sea.jpeg",
+        "price": 100
       }
     ]
   },
@@ -131,23 +154,28 @@
     "products": [
       {
         "name": "4 Cheese",
-        "image": "./img/products/cheese-pizza.jpg"
+        "image": "./img/products/cheese-pizza.jpg",
+        "price": 100
       },
       {
         "name": "Chiken and pineapple",
-        "image": "./img/products/pineapple.jpeg"
+        "image": "./img/products/pineapple.jpeg",
+        "price": 100
       },
       {
         "name": "Meat pizza",
-        "image": "./img/products/meat-pizza.jpg"
+        "image": "./img/products/meat-pizza.jpg",
+        "price": 100
       },
       {
         "name": "Pizza with seafood",
-        "image": "./img/products/sea-pizza.jpg"
+        "image": "./img/products/sea-pizza.jpg",
+        "price": 100
       },
       {
         "name": "With salami",
-        "image": "./img/products/salami.jpg"
+        "image": "./img/products/salami.jpg",
+        "price": 100
       }
     ]
   }
